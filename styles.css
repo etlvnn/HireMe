@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+}
+ul {
+    font-family: 'Manrope', sans-serif;
+}
+.blackpink {
+    width: 50%;
+    border: double 4px black;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: double 5px black;
+}
+
+h1 {
+    font-family: 'Updock', cursive;
+    font-size: 48px;
+    background-color:  #cee4d2;
+}
+
+
+
+h2 { font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    background-color: #cee4d2;
+}
+
+body {
+    background-color:  #eff6f0;
+}
+p {
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+}
+
